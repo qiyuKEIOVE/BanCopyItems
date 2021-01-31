@@ -1,2 +1,2 @@
 # BanCopyItems
-A garbage MCDR plugin for server background log explosion.    XD
+A garbage MCDR plugin for forbidding game copying items and exploding SERVER background logs.    XD
